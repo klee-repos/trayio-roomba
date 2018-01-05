@@ -6,4 +6,5 @@ https://gist.github.com/alirussell/2d200d21f117f8d570667daa7acdbae5
 
 1. git clone 
 2. navigate to project root of the clone
-3. npm start
+3. npm install
+4. npm start

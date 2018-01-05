@@ -1,4 +1,4 @@
-#Tray.io Coding Challenge
+# Tray.io Roomba Coding Challenge
 
 https://gist.github.com/alirussell/2d200d21f117f8d570667daa7acdbae5
 

@@ -1,13 +1,13 @@
 {
   "name": "trayio-roomba",
   "version": "1.0.0",
-  "description": "",
+  "description": "Coding challenge for Tray.io",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start":"node index"
   },
-  "author": "",
+  "author": "Kevin Lee",
   "license": "ISC",
   "dependencies": {
     "bluebird": "^3.5.1"

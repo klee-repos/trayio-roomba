@@ -49,7 +49,7 @@ var checkForDirt = function(currentLocation) {
     }
 }
 
-//Navigations Roomba through the room
+//Navigates Roomba through the room
 var navigateRoomba = function() {
     return new Promise(function(resolve, reject) {
         let x = roombaData.roomDimensions[0];

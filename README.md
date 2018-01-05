@@ -9,6 +9,8 @@ https://gist.github.com/alirussell/2d200d21f117f8d570667daa7acdbae5
 3. npm install
 4. npm start
 
+### Results
+
 Results are printed in terminal 
-* First line is Roomba's end location
+* First line represents Roomba's end location
 * Second line represents the total number of dirt blocks cleaned
